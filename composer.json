@@ -3,6 +3,9 @@
   "description": "description_text",
   "minimum-stability": "stable",
   "license": "proprietary",
+  "require" : {
+    "monolog/monolog" : "^1.24"
+  },
   "autoload": {
     "psr-4" : {
       "NtSchool\\Notifier\\": "src"
