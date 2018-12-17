@@ -4,7 +4,7 @@
   "minimum-stability": "stable",
   "license": "proprietary",
   "require" : {
-    "monolog/monolog" : "^1.24"
+    "monolog/monolog" : "^2.x"
   },
   "autoload": {
     "psr-4" : {
