@@ -57,7 +57,7 @@ class VKNotifierAdapter implements NotifierAdapterInterface {
 	}
 
 	public function warning( string $message ) {
-		// TODO: Implement warning() method.
+		$this->vkApi_messagesSend($this->vkUserID, $message);
 	}
 
 	public function error( string $message ) {
