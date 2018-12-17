@@ -3,11 +3,11 @@
   "description": "description_text",
   "minimum-stability": "stable",
   "license": "proprietary",
-  "require" : {
+  "require": {
     "monolog/monolog": "2.x-dev"
   },
   "autoload": {
-    "psr-4" : {
+    "psr-4": {
       "NtSchool\\Notifier\\": "src"
     }
   },
