@@ -1,5 +1,5 @@
 {
-  "name": "SimplyDemon/notifier",
+  "name": "simplydemon/notifier",
   "description": "description_text",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -10,7 +10,7 @@
   },
   "authors": [
     {
-      "name": "author's name",
+      "name": "sd",
       "email": "email@example.com"
     }
   ]
